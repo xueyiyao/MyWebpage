@@ -1,0 +1,25 @@
+.intro {
+    text-align: center;
+    padding: 0px 0px 30px 0px;
+}
+
+.intro img {
+    max-width: 100%;
+    max-height: 70%;
+    width: 100%;
+    height: 70%;
+    padding: 0 0 30px 0;
+}
+
+.projects .header {
+    padding: 0, 0, 10px, 0;
+}
+
+.skills {
+    padding: 30px 0 0 0;
+}
+
+.outro {
+    text-align: center;
+    padding: 30px 0 0 0;
+}
